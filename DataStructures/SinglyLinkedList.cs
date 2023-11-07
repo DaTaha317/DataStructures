@@ -11,7 +11,7 @@ namespace DataStructures
     internal class SinglyLinkedList
     {
         Node head;
-        int length = 0;
+        public int length = 0;
 
         internal void display() // O(n)
         {

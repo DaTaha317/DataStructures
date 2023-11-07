@@ -17,5 +17,10 @@ namespace DataStructures
             this.data = newData;
             this.nextNode = null;
         }
+
+        public Node()
+        {
+
+        }
     }
 }
